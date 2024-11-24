@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaalb\\Desktop\\WinFormsTabla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1ED5CD-239A-4D82-9204-3BD9D1CC3F15}|WinFormsTabla\\WinFormsTabla.csproj|c:\\users\\jaalb\\desktop\\winformstabla\\winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA1ED5CD-239A-4D82-9204-3BD9D1CC3F15}|WinFormsTabla\\WinFormsTabla.csproj|solutionrelative:winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jaalb\\Desktop\\WinFormsTabla\\WinFormsTabla\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTabla\\Form1.cs",
+              "ToolTip": "C:\\Users\\jaalb\\Desktop\\WinFormsTabla\\WinFormsTabla\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsTabla\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:36:20.555Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
